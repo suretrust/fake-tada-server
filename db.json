@@ -1,0 +1,15 @@
+{
+    "todos": [{
+            "id": 1,
+            "title": "lorem",
+            "description": "First description of Tada",
+            "completed": false
+        },
+        {
+            "id": 2,
+            "title": "lorem",
+            "description": "First description of Tada",
+            "completed": true
+        }
+    ]
+}
