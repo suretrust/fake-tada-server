@@ -1,38 +1,38 @@
 {
     "todos": [{
             "id": 1,
-            "title": "Lorem Ipsum",
-            "description": "First description of Tada",
+            "title": "Attend standup",
+            "description": "Give a brief description of what i did yesterday and hoping to do today.",
             "completed": false
         },
         {
             "id": 2,
-            "title": "lorem Ipsum",
-            "description": "Second description of Tada",
+            "title": "Go to gym",
+            "description": "Concentrate on overall body muscles to avoid one section getting bigger than the other.",
             "completed": true
         },
         {
             "id": 3,
-            "title": "lorem Ipsum",
-            "description": "Second description of Tada",
-            "completed": true
+            "title": "Daylight savings",
+            "description": "Check my calendar to ensure that I now know the time for my meetings that was updated due to daylight savings.",
+            "completed": false
         },
         {
             "id": 4,
-            "title": "lorem Ipsum",
-            "description": "Second description of Tada",
-            "completed": true
+            "title": "Spoke interview",
+            "description": "Don't forget to ask how the team runs in terms of KPIs.",
+            "completed": false
         },
         {
             "id": 5,
-            "title": "lorem Ipsum",
-            "description": "Second description of Tada",
+            "title": "Read a book",
+            "description": "Continue reading 'Habits of Successful Engineers'.",
             "completed": true
         },
         {
             "id": 6,
-            "title": "lorem Ipsum",
-            "description": "Second description of Tada",
+            "title": "Take a walk",
+            "description": "Pass through road through to buy groceries on way back.",
             "completed": true
         }
     ]
